@@ -1,0 +1,1 @@
+Burndown charts will depict what work is remaining as time progresses in a project or sprint.
